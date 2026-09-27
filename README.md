@@ -12,4 +12,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/RadiatorTwo">RadiatorTwo</a></i></p>
+
